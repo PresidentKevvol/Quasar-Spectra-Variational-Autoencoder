@@ -16,6 +16,9 @@ And the important data files:
 - dr16qsnr10_errterm_vae_eval.npy
 - v4fits_important_values_hmap.pkl
 
+Kindly download the larger files (`dr16qsnr10_dataset_vae_eval.npy` and `dr16qsnr10_errterm_vae_eval.npy`) [from here](https://drive.google.com/drive/folders/1qZ4yPkS04tjRJPzOnn9hjHANgcrTtfPm?usp=sharing)
+and put them in the directory of this repo after you pull/download it.
+
 And the stored model files:
 - VAE_3feat_lambd-5.043311_alpha-0.000000_nhidden-256-128.pth
 - VAE_6feat_lambd-6.059668_alpha-0.000000_nhidden-256-128.pth
